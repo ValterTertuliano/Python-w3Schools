@@ -22,8 +22,3 @@ print(x, y, z)  # saida Olá Mundo !!!
 
 print(x, y, z, sep='*', end='') # saida: Olá*Mundo*!!!O end não pulou a linha
 print("O end não pulou a linha ")
-
-"""
-onde parei e devo continuar
-https://www.w3schools.com/python/python_variables_global.asp
-"""
