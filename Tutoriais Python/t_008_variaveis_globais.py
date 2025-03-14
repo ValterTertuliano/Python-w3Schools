@@ -42,8 +42,3 @@ def outra_funcao():
 
 outra_funcao() # com a chamada da função criamos a variavel global
 print("Meu nome é Valter Sergio " + var2 + " " + var)
-
-
-"""
-https://www.w3schools.com/python/python_datatypes.asp
-"""
