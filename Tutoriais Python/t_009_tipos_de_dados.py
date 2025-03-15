@@ -62,7 +62,3 @@ x = bytes(5)
 x = bytearray(5)	
 x = memoryview(bytes(5))
 
-"""
-continua...
-https://www.w3schools.com/python/python_numbers.asp
-"""
